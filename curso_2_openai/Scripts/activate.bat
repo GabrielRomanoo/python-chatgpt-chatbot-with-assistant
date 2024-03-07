@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\Videos - Cursos\Programação\3573-OpenAI com Python 2\Projeto---3573\curso_2_openai
+set VIRTUAL_ENV=C:\Git\python-chatgpt-chatbot-with-assistant\curso_2_openai
 
 if not defined PROMPT set PROMPT=$P$G
 
